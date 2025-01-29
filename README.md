@@ -27,7 +27,7 @@ Concluí o ensino médio na Escola Técnica de Atibaia com o curso de Administra
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <br/>
