@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Concluí o ensino médio na Escola Técnica de Atibaia com o curso de Administração, o que me permitiu conhecer mais sobre o ramo empresarial e sobre metodologias ágeis como Scrum e Kanban em sua parte teórica e prática. Atualmente, estou cursando Engenharia de Computação no IFSP no campus de Birigui e estou em busca de uma vaga de estágio na área de Front-End com o intuito de aprofundar e aplicar meu conhecimento de maneira prática.
+Concluí o ensino médio na Escola Técnica de Atibaia com o curso de Administração, o que me permitiu conhecer mais sobre o ramo empresarial e sobre metodologias ágeis como Scrum e Kanban em sua parte teórica e prática. Atualmente, estou cursando Engenharia de Computação no IFSP no campus de Birigui. Durante o curso, tive a oportundiade de conhecer e utilizar ferramentas e tecnologias como JavaScript, CSS, HTML, Python, C++ e C.
 
 ### 🔧 Linguagens e Tecnologias
 
